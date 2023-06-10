@@ -22,11 +22,6 @@
             "ReCaptcha\\": "src/ReCaptcha"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.3.0-dev"
-        }
-    },
     "scripts": {
         "lint": "PHP_CS_FIXER_IGNORE_ENV=1 vendor/bin/php-cs-fixer -vvv fix --using-cache=no --dry-run .",
         "lint-fix": "PHP_CS_FIXER_IGNORE_ENV=1 vendor/bin/php-cs-fixer -vvv fix --using-cache=no .",
