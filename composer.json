@@ -1,5 +1,5 @@
 {
-    "name": "DevHjz/CFG-Turnstile-Packagist",
+    "name": "devhjz/cfg-turnstile-packagist",
     "description": "Client library for reCAPTCHA, a free service that protects websites from spam and abuse.",
     "type": "library",
     "keywords": ["Turnstile", "captcha", "spam", "abuse"],
